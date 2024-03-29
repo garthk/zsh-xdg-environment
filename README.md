@@ -124,8 +124,8 @@ But, maybe even that demonstrates more care than is cool with your scene. Do not
 
 00. I use "attitude problem" here to describe taking more care than the observer might value. You
     might think it more emotive than necessary. With respect, I disagree. If you don't catch on to
-    the norm enforcement¹ when it starts with a seeingly idle comment&emdash;"wow, you care a lot
-    about X"&emdash;beware it might escalate until you get the point. As Yossi Kreinin unpacked in
+    the norm enforcement¹ when it starts with a seeingly idle comment&mdash;"wow, you care a lot
+    about X"&mdash;beware it might escalate until you get the point. As Yossi Kreinin unpacked in
     great detail in 2015, [any work management don't value is left to the insane][yk15]. Hazel
     Weakly [later][hw24] nailed it in a single sentence:
 
