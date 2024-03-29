@@ -137,7 +137,8 @@ But, maybe even that demonstrates more care than is cool with your scene. Do not
 
     > I will not call this a bug
 
-00. &hellip; or, as accident investigators call it when it goes too far, [normalised deviance].
+00. If this particular style of norm enforcement wins too often, the norm drifts, and eventually
+    earns the label [normalization of deviance] from some professional investigator.
 
 00. The key words [MUST], [MUST NOT], [REQUIRED][MUST], [SHALL][MUST], [SHALL NOT][MUST NOT],
     [SHOULD], [SHOULD NOT], [RECOMMENDED][SHOULD], [MAY], and [OPTIONAL][MAY] in this document
@@ -159,7 +160,7 @@ But, maybe even that demonstrates more care than is cool with your scene. Do not
 [XDG_RUNTIME_DIR]: https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html#:~:text=%24XDG_RUNTIME_DIR%20defines,0700.
 [basedir-spec]: https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html
 [hw24]: https://hachyderm.io/@hazelweakly/111819889174981570
-[normalised deviance]: https://en.wikipedia.org/wiki/Normalization_of_deviance
+[normalization of deviance]: https://en.wikipedia.org/wiki/Normalization_of_deviance
 [ohmyzsh/ohmyzsh#9543]: https://github.com/ohmyzsh/ohmyzsh/issues/9543
 [ohmyzsh]: https://github.com/ohmyzsh/ohmyzsh
 [yk15]: https://yosefk.com/blog/people-can-read-their-managers-mind.html#:~:text=Who%20can,these%20things%2e
