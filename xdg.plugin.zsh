@@ -23,7 +23,8 @@ Darwin)
   USER_TEMP=$(getconf DARWIN_USER_TEMP_DIR) || USER_TEMP=$HOME/Library/TemporaryItems
   USER_APPSUP=$HOME/Library/Application\ Support
 
-  mkdir -p $USER_APPSUP/.{cache,config,local{,/{share,state,runtime}}}
+  mkdir -p $USER_APPSUP/.{cache,config,local{,/{share,state}}}
+  mkdir -p $USER_TEMP/.local/runtime
 
   XDG_CACHE_HOME=$USER_CACHE/.cache
   XDG_CONFIG_DIRS=:
