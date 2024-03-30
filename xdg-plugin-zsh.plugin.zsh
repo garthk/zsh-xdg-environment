@@ -1,0 +1,1 @@
+xdg.plugin.zsh
